@@ -2270,4 +2270,23 @@ header {
 	border-bottom: 1px solid #eeeeee;	
 }
 
+.container-picbg {
+		background: url("/assets/images/offshore.png") no-repeat center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	display: table;
+	width: 100%;
+}
+
+.container-picbg h4 {
+	color: white;
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+	height: 475px
+}
+
+
 
