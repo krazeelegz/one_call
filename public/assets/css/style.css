@@ -706,7 +706,7 @@ body#intro-page #theme_panel{
 
 /*acheiving-result*/
 .acheiving-result header {
-	padding: 10px 0 35px;
+	/*padding: 10px 0 35px;*/
 	position: relative;
 }
 .acheiving-result header.double-border {
