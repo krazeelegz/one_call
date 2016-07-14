@@ -1,5 +1,5 @@
 # Change these
-server '192.81.216.166', port: 80, roles: [:web, :app, :db], primary: true
+server '192.81.216.166', port: 22, roles: [:web, :app, :db], primary: true
 
 set :repo_url,        'git@github.com:krazeelegz/one_call.git'
 set :application,     'one_call'
